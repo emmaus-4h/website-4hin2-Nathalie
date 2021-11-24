@@ -36,14 +36,23 @@ footer {
     padding-bottom: 10px;
 }
 
-.wijbieden{
+
+.wijzijn{
   text-align: right;
   
 }
+
+.wijbieden{
+  text-align: right;
+
+}
+
+  
+
 .afbeeldingmenu{
  text-align: left;
-height: 200px;
-width: 200px;
+height: 300px;
+width: 300px;
 border:solid #303030 3px;
 }
 
