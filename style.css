@@ -6,13 +6,15 @@ html, body {
     background-color:rgba(45, 45, 45, 0.041);
     
     color: #303030;
-    font: Arsenal, Arial, Sans-Serif;
+    font: fantasy, fantasy,sans-sherif;
 }
 
 
 main {
     margin: 0 auto;
-    width: 700px;
+    width: 700
+    px;
+  
     position: relative;
 }
 
@@ -25,12 +27,24 @@ article {
 header {
     color: rgb(3, 13, 17);
     text-align: center;
+    
 }
 
 
 footer {
     text-align: center;
     padding-bottom: 10px;
+}
+
+.wijbieden{
+  text-align: right;
+  
+}
+.afbeeldingmenu{
+ text-align: left;
+height: 200px;
+width: 200px;
+border:solid #303030 3px;
 }
 
 
@@ -62,6 +76,7 @@ nav ul {
     padding: 0;
     background-color: #dddddd;
     overflow: hidden;
+    float: right;
 }
 
 nav ul li {
