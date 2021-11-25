@@ -39,6 +39,7 @@ footer {
 
 .wijzijn{
   text-align: right;
+  margin-top: 40px;
   
 }
 
@@ -47,14 +48,16 @@ footer {
 
 }
 
+.afbeeldingmenu{
+  text-align: left;
+  width: 200px;
+  height: 200px ;
+  margin-bottom: 20px;
+}
   
 
-.afbeeldingmenu{
- text-align: left;
-height: 300px;
-width: 300px;
-border:solid #303030 3px;
-}
+
+
 
 
 /* specifieke stijlen */
