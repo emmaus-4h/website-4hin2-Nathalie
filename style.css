@@ -50,8 +50,8 @@ footer {
 
 .afbeeldingmenu{
   text-align: left;
-  width: 200px;
-  height: 200px ;
+  width: 250px;
+  height: 250px ;
   margin-bottom: 20px;
 }
   
@@ -85,10 +85,12 @@ a:hover {
 nav ul {
     list-style-type: none;
     margin: auto;
-    padding: 0;
+    padding: 0px ;
     background-color: #dddddd;
     overflow: hidden;
     float: right;
+    
+
 }
 
 nav ul li {
