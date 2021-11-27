@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color:rgba(45, 45, 45, 0.041);
+    background-color:rgba(45, 45, 45, 0.096);
     
     color: #303030;
     font: fantasy, fantasy,sans-sherif;
@@ -25,38 +25,73 @@ article {
 
 
 header {
-    color: rgb(3, 13, 17);
-    text-align: center;
     
+    text-align: center;
+    color: #000;
 }
 
 
 footer {
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 100px;
 }
 
 
-.wijzijn{
-  text-align: right;
-  margin-top: 40px;
+
+  
+  .wijzijn{
+    float: right;
+    
+  }
+  
   
 }
 
 .wijbieden{
-  text-align: right;
+ float: right;
 
 }
+
+
+
 
 .afbeeldingmenu{
-  text-align: left;
-  width: 250px;
-  height: 250px ;
-  margin-bottom: 20px;
-}
+  float: left;
+  width: 1000px;
+  height: 700px ;
+  margin-left: 300px
+
+ 
   
 
+}
+  
+.logo{
+  text-align: left;
+  width: 200px;
+  height: 200px;
+ margin-top: 50px ;
+  
+  
+  
+}
 
+.overonsafbeelding{
+  width: 300px;
+  height: 500px;
+}
+
+.khoraoudgrieks{
+  float: right;
+}
+
+.wijcreeren{
+  float: right;
+}
+
+.najarenlang{
+  float: right;
+}
 
 
 
@@ -103,6 +138,8 @@ nav li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    
+
 }
 
 nav li a:hover {
@@ -110,7 +147,6 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: rgb(1, 5, 7);
 }
 
 
