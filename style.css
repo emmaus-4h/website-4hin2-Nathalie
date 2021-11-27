@@ -45,7 +45,7 @@ footer {
   }
   
   
-}
+
 
 .wijbieden{
  float: right;
@@ -79,19 +79,75 @@ footer {
 .overonsafbeelding{
   width: 300px;
   height: 500px;
+  float: left;
 }
 
 .khoraoudgrieks{
-  float: right;
+  text-align: right;
+  margin-top: 100px;
 }
 
-.wijcreeren{
-  float: right;
+
+
+
+.overdina{
+ text-align: left;
+ margin-top: 500px;
 }
 
-.najarenlang{
-  float: right;
+.floatclear{
+  clear: both;
 }
+
+.afbeeldingoverdina{
+  float: right;
+  height:500px ;
+  width: 500px;
+}
+
+
+.mediterrane{
+text-align: center;
+margin-right: 1300px;
+margin-top: 200px;
+}
+.afbeeldingplant{
+height: 400px;
+  width: 400px;
+  float: center;  
+  margin-right: 100px;
+}
+
+.behindtheface{
+text-align: center;
+margin-top: 200px;
+margin-left: 1000px;
+margin-bottom: 1000px;
+}
+
+.afbeeldingbehindtheface{
+ height: 400px;
+  width: 400px;
+  float: center;
+  
+  
+  
+}
+
+.driedee{
+text-align: left;
+margin-bottom: 100px
+margin-left: 100px;
+
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -147,6 +203,8 @@ nav li a:hover {
 }
 
 nav li a.active {
+
+
 }
 
 
