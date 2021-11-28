@@ -48,7 +48,7 @@ footer {
 
 
 .wijbieden{
- float: right;
+ text-align: right;
 
 }
 
@@ -137,9 +137,94 @@ margin-bottom: 1000px;
 .driedee{
 text-align: left;
 margin-bottom: 100px
-margin-left: 100px;
+
 
 }
+
+
+.afbeeldingprojectdott{
+  width: 800px;
+  height: 600px;
+  float: left;
+  margin-left: 200px;
+}
+
+.projectdott{
+  text-align: center;
+margin-top: 200px;
+margin-right: 1175px;
+
+}
+
+.afbeeldingprivewoning{
+  width: 800px;
+  height: 600px;
+  float: right;
+  margin-right: 200px;
+}
+
+.privewoning{
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 1175px;
+}
+
+.afbeeldingbadkamer{
+  width: 800px;
+  height: 600px;
+  float: left;
+  margin-left: 200px;
+}
+
+.privewoningbadkamer{
+text-align: center;
+margin-top: 100px;
+margin-right: 1175px;
+}
+
+.afbeeldingbed{
+  width: 800px;
+  height: 600px;
+  float: right;
+  margin-right: 200px;
+}
+
+.privebed{
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 1175px;
+}
+
+.afbeeldingopgeleverd{
+  width: 800px;
+  height: 600px;
+  float: left;
+  margin-left: 200px;
+}
+
+.priveprojectopgeleverd{
+  text-align: center;
+  margin-top: 100px;
+  margin-right: 1175px;
+ 
+}
+
+.afbeeldingprojectkantoor{
+  width: 800px;
+  height:600px;
+  margin-top: 100px;
+  margin-left: 1175px;
+  float:center;
+
+}
+
+
+.projectkantoor{
+  text-align: center;
+ 
+ margin-left: 1000px;
+}
+
 
 
 
