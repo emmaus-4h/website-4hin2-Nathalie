@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color:rgba(45, 45, 45, 0.096);
+    background-color:rgba(173, 163, 163, 0.253);
     
     color: #303030;
     font: fantasy, fantasy,sans-sherif;
@@ -42,15 +42,15 @@ footer {
   .wijzijn{
     float:left;
   margin-left: 100px;
+  
   }
   
   
-
-
 .wijbieden{
- text-align:left;
-margin-left: 200px;
+  text-align:left;
+  margin-left: 1200px;
 }
+
 
 
 
@@ -68,7 +68,7 @@ margin-left: 200px;
   
 .logo{
   text-align: left;
-  width: 200px;
+  width: 400px;
   height: 200px;
  margin-top: 50px ;
   
@@ -77,14 +77,16 @@ margin-left: 200px;
 }
 
 .overonsafbeelding{
-  width: 300px;
-  height: 500px;
+  width: 500px;
+  height: 700px;
   float: left;
+  margin-right: 200px;
 }
 
 .khoraoudgrieks{
-  text-align: right;
-  margin-top: 100px;
+  text-align: left;
+  margin-top: 200px;
+  margin-left: 100px;
 }
 
 
@@ -92,7 +94,7 @@ margin-left: 200px;
 
 .overdina{
  text-align: left;
- margin-top: 500px;
+ margin-top: 800px;
 }
 
 .floatclear{
@@ -101,14 +103,16 @@ margin-left: 200px;
 
 .afbeeldingoverdina{
   float: right;
-  height:500px ;
-  width: 500px;
+  height:700px ;
+  width: 600px;
 }
+
+ 
 
 
 .mediterrane{
 text-align: center;
-margin-right: 1200px;
+margin-right: 800px;
 margin-top: 200px;
 
 }
@@ -165,7 +169,8 @@ margin-right: 1000px;
   width: 800px;
   height: 600px;
   float: left;
-  margin-left: 200px;
+  
+
 }
 
 .projectdott{
@@ -179,7 +184,7 @@ margin-right: 1175px;
   width: 800px;
   height: 600px;
   float: right;
-  margin-right: 200px;
+ margin-left: 200px;
 }
 
 .privewoning{
@@ -192,7 +197,7 @@ margin-right: 1175px;
   width: 800px;
   height: 600px;
   float: left;
-  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .privewoningbadkamer{
@@ -205,7 +210,7 @@ margin-right: 1175px;
   width: 800px;
   height: 600px;
   float: right;
-  margin-right: 200px;
+  margin-left: 200px;
 }
 
 .privebed{
@@ -218,7 +223,7 @@ margin-right: 1175px;
   width: 800px;
   height: 600px;
   float: left;
-  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .priveprojectopgeleverd{
@@ -232,7 +237,7 @@ margin-right: 1175px;
   width: 800px;
   height:600px;
   margin-top: 100px;
-  margin-left: 1175px;
+  margin-left: 1000px;
   float:center;
 
 }
@@ -246,11 +251,13 @@ margin-right: 1175px;
 
 .afbeeldingdiensten{
   height: 900px;
- margin-top: 100px;
 
 
 }
 
+
+  
+  
 
 
 
