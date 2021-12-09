@@ -1,8 +1,14 @@
+* {
+  overflow:hidden;
+  box-sizing: border-box;
+}
+
 /* Basislayout */
 
 
 
 html, body {
+  overflow:visible;
     height: 100%;
     padding: 0;
     background-color:rgba(173, 163, 163, 0.253);
@@ -44,11 +50,10 @@ footer {
   
   
   
-.wijbieden{
-  text-align:left;
-  
-  margin-top: 100px;
-  
+.wijbieden {
+  float: center;
+  width:300px;
+ 
 }
 
 
@@ -60,19 +65,14 @@ footer {
   width: 1000px;
   height: 700px ;
   margin-left: 100px;
+ margin-bottom: 200px;
  
- 
-  
-
 }
   
 .logo{
   text-align: left;
   width: 400px;
   height: 200px;
-  
-  
-  
   
 }
 
@@ -86,7 +86,7 @@ footer {
 
 .khoraoudgrieks{
   text-align: left;
-  margin-top: 200px;
+  margin-top: 100px;
   margin-left: 100px;
 }
 
@@ -95,7 +95,7 @@ footer {
 
 .overdina{
  text-align: left;
- margin-top: 800px;
+ margin-top: 500px;
 }
 
 .floatclear{
@@ -108,68 +108,34 @@ footer {
   width: 600px;
 }
 
- 
-
 
 .mediterrane{
-text-align: center;
+float: center;
 
 margin-top: 200px;
+width: 900px;
 
 }
 .afbeeldingplant{
 height: 600px;
   width: 900px;
   float: center;  
-  margin-left: 100px;
-}
-
-
-
-
-
-.afbeeldingbehindtheface{
- height: 600px;
-  width: 900px;
-  float: center;
-  
-  
   
 }
 
-.driedee{
-text-align:center;
 
 
-
-
-
-}
-
-.afbeeldingdriedee{
-  height:600px ;
-  width: 900px;
-}
-
-
-
-.afbeeldingsoulful{
-  height: 600px;
-  width: 900px;
- 
-}
 
 .afbeeldingprojectdott{
   width: 800px;
   height: 600px;
   float: left;
   
-
 }
 
 .projectdott{
   text-align: center;
-margin-top: 200px;
+
 margin-right: 1175px;
 
 }
@@ -281,6 +247,26 @@ margin-bottom: 50px;
 .readmorejournalonder{
   text-align: left;
 }
+
+.contacttekst{
+text-align: left;
+margin-top: 200px;
+  
+}
+
+.particulier{
+  float: left;
+  margin-left: 580px;
+}
+
+.zakelijk{
+  float: right;
+  margin-right: 580px;
+}
+
+.hoofdparticulier{
+  text-align: center;
+}
 /*
 .khoraoudgriekstekst {
   width:300px;
@@ -341,6 +327,7 @@ nav li a {
 
 nav li a:hover {
     background-color: #aaaaaa;
+    
 }
 
 nav li a.active {
