@@ -98,17 +98,15 @@ footer {
 
 
 .mediterrane{
-float: center;
-
+float: left;
 margin-top: 200px;
-width: 900px;
+width: 800px;
 
 }
 .afbeeldingplant{
-height: 600px;
+height: 575px;
   width: 900px;
   float: center;  
-  
 }
 
 
