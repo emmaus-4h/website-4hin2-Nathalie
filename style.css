@@ -9,10 +9,10 @@
 
 html, body {
   overflow:visible;
-    height: 100%;
+    
     padding: 0;
     background-color:rgba(199, 192, 192, 0.253);
-    
+    border: 2px solid;
     color: #303030;
     font: fantasy, fantasy,sans-sherif;
 }
@@ -43,10 +43,16 @@ footer {
     text-align: center;
     padding-bottom: 100px;
 }
+
+.navigatie1{
+  color: white;
+  text-align: left;
+  margin-left: 30px;
+}
 .navigatie{
   color: white;
   text-align: left;
-  margin-left: 20px;
+  
  
 }
 
@@ -54,9 +60,9 @@ footer {
 
 .onderstuk{
   overflow:visible;
-    height:0%;
-    padding: 0;
     
+    padding: 0;
+    border: 2px solid;
     font: fantasy, fantasy,sans-sherif;
     width: 100%;
   background-color: black;
@@ -70,13 +76,13 @@ footer {
 }
 
 .afbeeldingmenu{
-  width: 1000px;
-  height: 700px;
-  float: left;
+  width: 1800px;
+  height: 1300px;
+  float: center;
   margin-top: 100px;
 }
 .wijzijn{
-text-align: left;
+float: center;
 margin-top: 150px;
 
 }
@@ -126,8 +132,8 @@ margin-left: 100px;
 
 }
 .afbeeldingplant{
-height: 575px;
-  width: 900px;
+height: 600px;
+  width: 1000px;
   float: center; 
   margin-left: 20px; 
 }
@@ -140,11 +146,24 @@ height: 575px;
   
 }
 
+.tekstprojectdott{
+margin-top: 220px;
+margin-right: 250px;
+float: right;
+}
+
+.tekstprivewoning{
+  float: left;
+  margin-top: 250px;
+ margin-left: 250px;
+}
+
 .afbeeldingprivewoning{
   width: 800px;
   height: 600px;
   float: right;
  margin-left: 200px;
+ 
 }
 
 .afbeeldingdiensten{
@@ -154,8 +173,8 @@ margin-top: 100px;
 }
 
 #afbeeldingzakelijk{
-  height: 800px;
-
+  height: 1100px;
+  width: 800px; 
 }
   
   .readmoreplant{
@@ -194,18 +213,17 @@ margin-top: 200px;
 
 .particulier{
   float: left;
-  margin-left: 580px;
+  margin-left: 450px;
 }
 
 .zakelijktekst{
   text-align: center;
+  margin-left: 800px;
 }
 
 .hoofdparticulier{
   text-align: center;
 }
-
-
 
 .silver{
  text-align: left;
@@ -213,16 +231,18 @@ margin-top: 200px;
 }
 
 .gold{
- text-align: center;
-
-}
-
-.black{
  text-align: right;
- 
+
 }
 
+.silver1{
+  text-align: left;
+  margin-left: 40px;
+}
 
+.gold{
+  text-align: right;
+}
   
 /* specifieke stijlen */
 
